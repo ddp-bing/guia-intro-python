@@ -1,2 +1,2 @@
 # guia-intro-python
-Guia de Estudo de Python BASICO
+Guia de Estudo Introdutório de Python
