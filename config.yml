@@ -1,0 +1,146 @@
+title: guia-intro-python
+description: Guia de Introdução a Python
+template:
+  repo: guia-intro-python-template
+  name: guia-intro-python
+before:
+  - type: createIssue
+    title: Let's start
+    body: 00-start.md
+steps:
+  - title: Let's start
+    description: Objetivos do guia
+    event: issue_comment
+    link: "{{ repoUrl }}/issues/1"
+    actions:
+      - type: respond
+        with: 00-closed.md
+        issue: 1
+      - type: createIssue
+        title: Configuração de ambiente
+        body: 01-environment.md
+      - type: closeIssue
+        issue: 1
+
+  - title: Configuração de ambiente
+    description: Configuração inicial do seu ambiente
+    event: issues.closed
+    link: "{{ repoUrl }}/issues/1"
+    actions:
+      - type: respond
+        with: 01-closed.md
+        issue: 2
+      - type: createIssue
+        title: Hello World com Python
+        body: 02-helloworld.md
+
+  - title: Hello World
+    description: Execute seu primeiro programa em Python
+    event: push
+    link: "{{ repoUrl }}/issues/2"
+    actions:
+      - type: respond
+        with: 02-closed.md
+        issue: 3
+      - type: createIssue
+        title: Booleanos e Condicionais
+        body: 03-boolcondition.md
+      - type: closeIssue
+        issue: 3
+
+  - title: Booleanos e Condicionais
+    description: Entenda e crie fluxos no código
+    event: push
+    link: "{{ repoUrl }}/issues/3"
+    actions:
+      - type: respond
+        with: 03-closed.md
+        issue: 4
+      - type: createIssue
+        title: Listas
+        body: 04-lists.md
+      - type: closeIssue
+        issue: 4
+
+  - title: Listas
+    description: Aprenda a lidar com Listas
+    event: push
+    link: "{{ repoUrl }}/issues/4"
+    actions:
+      - type: respond
+        with: 04-closed.md
+        issue: 5
+      - type: createIssue
+        title: Tuplas
+        body: 05-tuples.md
+      - type: closeIssue
+        issue: 5
+
+  - title: Tuplas
+    description: Aprenda a lidar com tuplas
+    event: push
+    link: "{{ repoUrl }}/issues/5"
+    actions:
+      - type: respond
+        with: 05-closed.md
+        issue: 6
+      - type: createIssue
+        title: Strings e Dicionarios
+        body: 06-strings.md
+      - type: closeIssue
+        issue: 6
+
+  - title: Strings e Dicionarios
+    description: Lidando com data types fundamentais em Python
+    event: push
+    link: "{{ repoUrl }}/issues/6"
+    actions:
+      - type: respond
+        with: 06-closed.md
+        issue: 7
+      - type: createIssue
+        title: Bibliotecas
+        body: 07-library.md
+      - type: closeIssue
+        issue: 7
+
+  - title: Trabalhando com Bibliotecas
+    description: Aprenda a utilizar bibliotecas externas
+    event: push
+    link: "{{ repoUrl }}/issues/7"
+    actions:
+      - type: respond
+        with: 07-closed.md
+        issue: 8
+      - type: createIssue
+        title: Arquivos
+        body: 08-file.md
+      - type: closeIssue
+        issue: 8
+
+  - title: Arquivos
+    description: Aprenda a lidar com arquivos
+    event: push
+    link: "{{ repoUrl }}/issues/8"
+    actions:
+      - type: respond
+        with: 08-closed.md
+        issue: 9
+      - type: createIssue
+        title: Desafio
+        body: 09-challenge.md
+      - type: closeIssue
+        issue: 9
+
+  - title: Desafio
+    description: Teste seu conhecimento
+    event: push
+    link: "{{ repoUrl }}/issues/8"
+    actions:
+      - type: respond
+        with: 08-closed.md
+        issue: 10
+      - type: closeIssue
+        issue: 10
+tags:
+  - Python
