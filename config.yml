@@ -138,7 +138,7 @@ steps:
     link: "{{ repoUrl }}/issues/8"
     actions:
       - type: respond
-        with: 08-closed.md
+        with: 09-closed.md
         issue: 10
       - type: closeIssue
         issue: 10
