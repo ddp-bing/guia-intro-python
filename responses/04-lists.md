@@ -4,57 +4,57 @@
 
 Aprenda a trabalhar com listas e como usa-las através de loops
 
-## 1- Loops
-
-- [ ] [1.1- Leitura do Notebook ](http://luiszeni.com.br/python_classes/chapters/cap03.html)\
-
-Será abordado:
-
-- while
-- break
-- for
-
-### _Desafio_
-
-- [ ] Faça os exercício "_01_Fibbonacci_" dentro da pasta "_Desafio 3_"
-
-## 2- Listas
-
-- [ ] [2.1- Leitura do Notebook ](http://luiszeni.com.br/python_classes/chapters/cap04.html)\
-
-Será abordado:
-
-- Acesso a elementos
-- Listas e laços de repetição
-- Ordenação, Cópia e Remoção de listas
-- Fatiamento de listas
-
-- [ ] [2.2- Leitura do Notebook Kaggle](https://www.kaggle.com/colinmorris/lists)\
-
-Será abordado:
-
-- Index
-- Slicing
-- Funções Listas
-- Tuplas
-
 ---
 
-### _Desafio_
+## Tópicos
 
-- [ ] Faça os exercícios
+### 1- Loops
 
-  - "_02_IteracaoLista_"
-  - "_03_FuncoesLista_"
-  - "_04_MenorValor_
+- [ ] [**Curso Zeni- Laços de Repetição**](http://luiszeni.com.br/python_classes/chapters/cap03.html)
 
-  presentes dentro da pasta "_Desafio 3_"
+  Leitura do curso aonde será abordado:
 
----
+  - while
+  - break
+  - for
 
-## Opcionais
+- [ ] **Desafio**
 
-- [Listas em compreensão ](https://www.dcc.fc.up.pt/~acm/aulas/IP10/teorica-11.pdf)
+  Faça os seguintes exercícios dentro da pasta "_Desafio 3_" do repositório que você clonou na sua máquina pessoal:
+
+  - "_01_Fibbonacci.py_"
+
+### 2- Listas
+
+- [ ] [**Curso Zeni- Listas**](http://luiszeni.com.br/python_classes/chapters/cap04.html)
+
+  Leitura do curso aonde será abordado:
+
+  - Acesso a elementos
+  - Listas e laços de repetição
+  - Ordenação, Cópia e Remoção de listas
+  - Fatiamento de listas
+
+- [ ] [**Notebook Kaggle - Listas**](https://www.kaggle.com/colinmorris/lists)
+
+  Leitura do notebook aonde será abordado:
+
+  - Index
+  - Slicing
+  - Funções Listas
+  - Tuplas
+
+- [ ] **Desafio**
+
+  Faça os seguintes exercícios dentro da pasta "_Desafio 3_" do repositório que você clonou na sua máquina pessoal:
+
+  - "_02_IteracaoLista.py_"
+  - "_03_FuncoesLista.py_"
+  - "_04_MenorValor.py_"
+
+### 3- Opcionais
+
+- [Listas em compreensão](https://www.dcc.fc.up.pt/~acm/aulas/IP10/teorica-11.pdf)
 
 ---
 

@@ -2,49 +2,57 @@
 
 ## Objetivos
 
+Entender o conceito de strings e dicionários
+
 ---
 
-## 1- String
+## Tópicos
 
-- [ ] [1.1- Leitura Notebok Kaggle](https://www.kaggle.com/colinmorris/strings-and-dictionaries)\
+### 1- String
 
-Será abordado:
+- [ ] [**Notebook Kaggle - Strings e Dicionarios**](https://www.kaggle.com/colinmorris/functions-and-getting-help)
 
-1. Sintaxe
-1. Métodos
-1. Introdução a dicionários
+  Leitura do notebook aonde será abordado:
 
-- [ ] [1.2- Leitura Capitulo](https://penseallen.github.io/PensePython2e/08-strings.html)
+  - Sintaxe
+  - Métodos
+  - Introdução a dicionários
 
-### _Desafio_
+- [ ] [**Pense Python - Strings**](https://penseallen.github.io/PensePython2e/08-strings.html)
 
-- [ ] Faça os exercícios:
+  Leitura do capítulo aonde será abordado:
+
+  - Loop Strings
+  - Fatiamento
+  - Imutabilidade
+  - Métodos
+
+- [ ] **Desafio**
+
+  Faça os seguintes exercícios dentro da pasta "_Desafio 5_" do repositório que você clonou na sua máquina pessoal:
 
   - "_01_OcorrenciaString.py_"
   - "_02_ProcurandoString.py_"
 
-  presentes dentro da pasta "_Desafio 5_"
+### 2- Dicionários
 
----
+- [ ] [**Curso Zeni- Dicionários**](http://luiszeni.com.br/python_classes/chapters/cap06.html)
 
-## 2- Dicionários
+- [ ] [**Pense Python - Dicionários**](https://penseallen.github.io/PensePython2e/11-dicionarios.html)
 
-- [ ] [2.1- Leitura Capitulo](http://luiszeni.com.br/python_classes/chapters/cap06.html)
+  Leitura do capítulo aonde será abordado:
 
-- [ ] [2.2- Leitura Capitulo](https://penseallen.github.io/PensePython2e/11-dicionarios.html)
+  - Loop
+  - Busca Reversa
 
-### _Desafio_
+- [ ] **Desafio**
 
-- [ ] Faça os exercícios:
+  Faça os seguintes exercícios dentro da pasta "_Desafio 5_" do repositório que você clonou na sua máquina pessoal:
 
   - "_03_Dicionario.py_"
   - "_04_FuncoesDic.py_"
 
-  presentes dentro da pasta "_Desafio 5_"
-
 ---
-
-### _Desafio_
 
 ## Commit seus desafios
 

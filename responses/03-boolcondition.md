@@ -6,43 +6,41 @@ Aprenda os metódos condicionais para conseguir alterar o comportamento do seu c
 
 ---
 
-## 1- Condicionais
+## Tópicos
 
-- [ ] [1.1- Leitura do Notebook ](http://luiszeni.com.br/python_classes/chapters/cap02.html)\
+### 1- Condicionais
 
-Será abordado:
+- [ ] [**Curso Zeni- Desvios Condicionais**](http://luiszeni.com.br/python_classes/chapters/cap02.html)
 
-- Booleanos
-- Condicionais e seus operadores
-- Desvios
+  Leitura do curso aonde será abordado:
 
-### _Desafio_
+  - Booleanos
+  - Condicionais e seus operadores
+  - Desvios
 
-- [ ] Faça os exercícios:
+- [ ] **Desafio**
+
+  Faça os seguintes exercícios dentro da pasta "_Desafio 2_" do repositório que você clonou na sua máquina pessoal:
 
   - "_01_Condicional.py_"
   - "_02_TrianguloClass.py_"
 
-  presentes dentro da pasta "_Desafio 2_"
+### 2- Recursividade
 
----
+- [ ] [**Pense Python - Recursividade** ](https://penseallen.github.io/PensePython2e/05-cond-recur.html)
 
-## 2- Recursividade
+  Leitura dos Capítulos:
 
-- [ ] [2.1- Leitura dos Capitulos: ](https://penseallen.github.io/PensePython2e/05-cond-recur.html)
+  - 8_Recursividade
+  - 9_Diagramas da pilha para funções recursivas
+  - 10_Recursividade infinita
 
-- Cap 5.8: Recursividade
-- Cap 5.9: Diagramas da pilha para funções recursivas
-- Cap 5.10: Recursividade infinita
+- [ ] **Desafio**
 
-### _Desafio_
-
-- [ ] Faça os exercícios:
+  Faça os seguintes exercícios dentro da pasta "_Desafio 2_" do repositório que você clonou na sua máquina pessoal:
 
   - "_03_SomaRecursiva.py_"
   - "_04_DivisaoRecursiva.py_"
-
-  presentes dentro da pasta "_Desafio 2_"
 
 ---
 
@@ -51,5 +49,5 @@ Será abordado:
 Para continuarmos, execute no cmd dentro do repositório local os seguintes comandos:
 
 1. Adicionar os arquivos modificados: `git add .`
-2. Commit as mudanças: `git commit -m " Cap 2 - Booleanos e condicionais"`
+2. Commit as mudanças: `git commit -m " Cap 2 - Booleanos e Condicionais"`
 3. Push para o repositorio do github: `git push`

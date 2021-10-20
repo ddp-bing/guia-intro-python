@@ -2,38 +2,42 @@
 
 ## Objetivos
 
-Aprender o que são bibliotecas e como trabalhar com elas
+Aprenda o que são bibliotecas e como trabalhar com elas
 
 ---
 
-## 1- Usando Bibliotecas
+## Tópicos
 
-- [ ] [1.1- Leitura do Notebook no Kagle](https://www.kaggle.com/colinmorris/working-with-external-libraries\)
+### 1- Usando Bibliotecas
 
-Será abordado:
+- [ ] [**Notebook Kaggle - Bibliotecas Externas**](https://www.kaggle.com/colinmorris/working-with-external-libraries)
 
-1. Imports
-1. SubModulos
+  Leitura do notebook aonde será abordado:
 
-### _Desafio_
+  - Imports
+  - SubModulos
 
-- [ ] Faça o exercício "_01_Modulos.py_" dentro da pasta "_Desafio 6_"
+- [ ] **Desafio**
 
----
+  Faça os seguintes exercícios dentro da pasta "_Desafio 6_" do repositório que você clonou na sua máquina pessoal:
 
-## 2- Introdução ao Numpy
+  - "_01_Modulos.py_"
 
-- [ ] [2.1- Leitura link - Introdução ao Numpy ](http://www.opl.ufc.br/pt/post/numpy/)
+### 2- Introdução ao Numpy
 
-Será abordado:
+- [ ] [**Artigo - Introdução ao Numpy**](https://penseallen.github.io/PensePython2e/08-strings.html)
 
-1. Matrizes
-1. Funções e operadores
-1. Broadcasting
+  No artigo será abordado:
 
-### _Desafio_
+  - Matrizes
+  - Funções e operadores
+  - Broadcasting
 
-- [ ] Faça o exercício "_02_Numpy.py_" dentro da pasta "_Desafio 6_"
+- [ ] **Desafio**
+
+  Faça os seguintes exercícios dentro da pasta "_Desafio 6_" do repositório que você clonou na sua máquina pessoal:
+
+  - "_02_Numpy.py_"
 
 ---
 
