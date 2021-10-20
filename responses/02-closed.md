@@ -1,5 +1,5 @@
-Seus desafios já commitados.
+Seus desafios já foram commitados.
 
-<img src="https://media3.giphy.com/media/fDbzXb6Cv5L56/200w_s.gif" width="200" height="200" />
+<img src="https://i.giphy.com/media/fDbzXb6Cv5L56/giphy.webp" width="200" height="200" />
 
-Continue o guia aqui -> [Condicionais]({{ repoUrl }}/issues/3).
+Continue o guia aqui -> [Condicionais]({{ repoUrl }}/issues/4).

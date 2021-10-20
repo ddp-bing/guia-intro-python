@@ -6,7 +6,7 @@ Para começar o guia de programação será necessário verificar o seu ambiente
 
 ## Ambiente de Desenvolvimento
 
-Para iniciar a desenvolver em Python será necessário escolher o seu ambiente de desenvolvimento ou seu editor de textos para simplificar o desenvolvimento de software.
+Para iniciar a desenvolver em Python será necessário escolher o seu ambiente de desenvolvimento ou seu editor de texto para simplificar o desenvolvimento de software.
 
 Segue algumas opções interessantes, caso não possua:
 
@@ -17,7 +17,7 @@ Segue algumas opções interessantes, caso não possua:
 
 ## Verificar se Python está instalado
 
-Você precisará instalar o Python caso sua máquina, caso não possua. Para verificar se o Python está instalado, vá no seu terminal e digite :
+Você precisará instalar o Python não esteja instalado na sua máquina. Para verificar se o Python está instalado, vá no seu terminal e digite :
 
 `python -V`
 
@@ -31,7 +31,7 @@ Na sua linha de comentário, digite:
 
 `git --version`
 
-Se a versão do Git for exibida, está pronto para prosseguir. Caso contrário, você precisará [baixar o Git](https://git-scm.com/downloads) para seu computador.
+Se a versão do Git for exibida, você está pronto para prosseguir. Caso contrário, você precisará [baixar o Git](https://git-scm.com/downloads) para seu computador.
 
 - [ ] O Git já está instalado
 

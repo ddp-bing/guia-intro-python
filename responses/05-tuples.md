@@ -6,24 +6,24 @@ Aprender o que são Tuplas e sua diferença com a estrutura de listas
 
 ---
 
-## 1- Tuplas
+## Tópicos
 
-- [ ] [1.1- Leitura dos Capitulos:](https://penseallen.github.io/PensePython2e/12-tuplas.html)
+### 1- Tuplas
 
-- Atribuição de tuplas
-- Tuplas como valores de retorno
-- Listas e tuplas
+- [ ] [**Pense Python - Tuplas**](https://penseallen.github.io/PensePython2e/12-tuplas.html)
 
-**Nota** Ler ate o capitulo 12.5
+  Leitura até capítulo 12.5 aonde será abordado:
 
-### _Desafio_
+  - Atribuição de tuplas
+  - Tuplas como valores de retorno
+  - Listas e tuplas
 
-- [ ] Faça os exercícios:
+- [ ] **Desafio**
+
+  Faça os seguintes exercícios dentro da pasta "_Desafio 4_" do repositório que você clonou na sua máquina pessoal:
 
   - "_01_VogaisTuplas.py_"
-  - "_02_TuplasTimas.py_"
-
-  presentes dentro da pasta "_Desafio 4_"
+  - "_02_TuplasTimes.py_"
 
 ---
 

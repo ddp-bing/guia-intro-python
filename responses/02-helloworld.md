@@ -6,86 +6,78 @@ O objetivo desta etapa será introduzir alguns conceitos inicias sobre à lingua
 
 ---
 
-## 1- Sobre Python
+## Tópicos
 
-- [ ] [1.1- Leitura dos Capitulos:](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/o-que-e-python#python)
+### 1- Sobre Python
 
-- O que é Python
-- História
-- Interpretador
+- [ ] [**Caelum - O que é python**](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/o-que-e-python#python)
 
-### _Desafio_
+  Leitura dos Capítulos:
 
-- [ ] Faça o exercício "_00_Hello.py_" dentro da pasta "_Desafio 1_" do repositório que você clonou na sua máquina pessoal
+  - 1_O que é Python
+  - 2_História
+  - 3_Interpretador
 
-**Nota**: Os enunciados estão descritos dentro dos arquivos do desafios.
+- [ ] **Desafio**
 
----
+  Faça o exercício "_00_Hello.py_" dentro da pasta "_Desafio 1_" do repositório que você clonou na sua máquina pessoal
 
-## 2- Variáveis e operadores
+  **Nota**: Os enunciados estão descritos dentro dos arquivos do desafios.
 
-- [ ] [2.2- Leitura do capítulos:](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/declarando-e-usando-variaveis)
+### 2- Variáveis e operadores
 
-- Tipos embutidos (built-ins)
-- Variáveis
-- Instruções
-- Operadores Aritméticos
+- [ ] [**Caelum - Variáveis**](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/declarando-e-usando-variaveis)
 
-### _Desafio_
+  Leitura dos Capítulos:
 
-- [ ] Faça os exercícios:
+  - Tipos embutidos (built-ins)
+  - Variáveis
+  - Instruções
+  - Operadores Aritméticos
 
-- "_01_Operacoes.py_"
-- "_02_TipoDados.py_"
+- [ ] **Desafio**
 
-dentro da pasta "_Desafio 1_" do repositório que você clonou na sua máquina pessoal
+  Faça os seguintes exercícios dentro da pasta "_Desafio 1_" do repositório que você clonou na sua máquina pessoal:
 
----
+  - "_01_Operacoes.py_"
+  - "_02_TipoDados.py_"
 
-## 3- Funções
+### 3- Funções
 
-- [ ] [3.1- Leitura do Notebook](https://www.kaggle.com/colinmorris/functions-and-getting-help)
+- [ ] [**Notebook Kaggle - Functions**](https://www.kaggle.com/colinmorris/functions-and-getting-help)
 
-Será abordado:
+  Leitura do notebook aonde será abordado:
 
-- Definição de funções
-- Functions sem retorno
-- Argumentos Default
-- Funções aplicadas em funções
+  - Definição Funções
+  - Funções Sem Retorno
+  - Argumentos Default
 
-- [ ] [3.2- O que são Funções](https://penseallen.github.io/PensePython2e/03-funcoes.html)
+- [ ] [**Pense Python - O que são Funções**](https://penseallen.github.io/PensePython2e/03-funcoes.html)
 
-Será abordado:
+  Leitura até o capítulo 10. Será abordado:
 
-- Funções Matemáticas
-- Composição
-- Fluxo de execução
-- Parâmetros e argumentos
-- Diagrama da pilha
+  - Funções Matemáticas
+  - Composição
+  - Fluxo de execução
+  - Parâmetros e argumentos
+  - Diagrama da pilha
 
-_Nota:_ Ler até capitulo 10
+- [ ] [**Pense Python - Funções com resultado**](https://penseallen.github.io/PensePython2e/06-funcoes-result.html)
 
-- [ ] [3.3- Funções com resultado](https://penseallen.github.io/PensePython2e/06-funcoes-result.html)
+  Leitura do capítulo aonde será abordado:
 
-Será abordado:
+  - Valores de retorno
+  - Desenvolvimento incremental
+  - Funções booleanas
+  - Recursividade
 
-- Funções Matemáticas
-- Composição
-- Fluxo de execução
-- Parâmetros e argumentos
-- Diagrama da pilha
+- [ ] **Desafio**
 
-_Nota:_ Ler até capitulo 10
+  Faça os seguintes exercícios dentro da pasta "_Desafio 1_" do repositório que você clonou na sua máquina pessoal:
 
-### _Desafio_
-
-- [ ] Faça os exercícios:
-
-- "_03_MaiorNumero.py_"
-- "_04_InnerFunction.py_"
-- "_05_FuncaoRecursiva.py_"
-
-  dentro da pasta "_Desafio 1_" do repositório que você clonou na sua máquina pessoal
+  - "_03_MaiorNumero.py_"
+  - "_04_InnerFunction.py_"
+  - "_05_FuncaoRecursiva.py_"
 
 ---
 

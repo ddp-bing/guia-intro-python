@@ -2,23 +2,30 @@
 
 ## Objetivos
 
+Conseguir trabalhar com arquivos com as bibliotecas de Python
+
 ---
 
-## 1- Usando Arquivos
+## Tópicos
 
-- [ ] [1.1- Leitura até o capitulo 14.5](https://penseallen.github.io/PensePython2e/14-arquivos.html)
+### 1- Usando Arquivos
 
-Será abordado:
+- [ ] [**Pense Python - Arquivos**](https://penseallen.github.io/PensePython2e/08-strings.html)
 
-1. Persistência
-1. Leitura e escrita
-1. Formatação
-1. Nomes de arquivo e caminhos
-1. Exceções
+  Leitura até o capítulo 14.5 aonde será abordado:
 
-### _Desafio_
+  - Persistência
+  - Leitura e escrita
+  - Formatação
+  - Nomes de arquivo e caminhos
+  - Exceções
 
-- [ ] Faça o exercício "_01_File.py_" presentes dentro da pasta "_Desafio 7_"
+- [ ] **Desafio**
+
+  Faça os seguintes exercícios dentro da pasta "_Desafio 7_" do repositório que você clonou na sua máquina pessoal:
+
+  - "_01_File.py_"
+  - "_02_ProcurandoString.py_"
 
 ---
 
